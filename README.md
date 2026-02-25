@@ -9,30 +9,6 @@ This project is also part of the published research work:
 
 ---
 
-## Project Description (for GitHub)
-
-**Short description suggestion:**
-
-> SummarizeLaw uses InLegalBERT to generate concise summaries of Indian court judgments and evaluates output quality against reference summaries.
-
----
-
-## Suggested GitHub Topics
-
-Use these topics on your GitHub repository page to improve discoverability:
-
-- `legal-nlp`
-- `indian-law`
-- `judgment-summarization`
-- `inlegalbert`
-- `transformers`
-- `nlp`
-- `text-summarization`
-- `legal-ai`
-- `machine-learning`
-- `research-project`
-
----
 
 ## What this repository includes
 
